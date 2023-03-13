@@ -1,0 +1,53 @@
+.sitebody{
+    width:1200px;
+    margin:0 auto;
+
+}
+.hello h1{
+    color:burlywood
+}
+.hello strong{
+    color:darkorange
+}
+.hello{
+    width: 800px;
+    text-align: center;
+    margin-left:200px;
+}
+.leftside{
+    width:500px;
+    float:left;
+    margin-left:-70px;
+}
+img{
+    max-width:180%;
+    max-height:180%;
+}
+.style table{
+    font-size: 150%;
+    text-align: center;
+    
+}
+.style table th{
+    font-size: 150%;
+    width: 200px;
+    height: 100px;
+}
+.style table td{
+    width:200px;
+    height:150px;
+}
+.rightside{
+    width:500px;
+    text-align: center;
+    margin-right:140px;
+    float:right;
+}
+.footer{
+    clear:both;
+    font-size:225%;
+    height:100px;
+    text-align: center;
+    line-height:100px;
+}
+
